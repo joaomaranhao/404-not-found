@@ -44,6 +44,8 @@
 
 A simple 404 not found page
 
+Live page can be found here: [404 page](https://joaomaranhao.github.io/404-not-found/)
+
 ### Built With
 
 - HTML
